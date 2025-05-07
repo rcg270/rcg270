@@ -1,4 +1,6 @@
 ## Hi there 👋
+About me: ...
+Github Pages link: https://rcg270.github.io/rcg270/
 
 <!--
 **rcg270/rcg270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
